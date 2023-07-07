@@ -15,3 +15,8 @@ footer {
     text-align: center;
     margin-top: 50px;
 }
+
+label {
+    display: block;
+    margin-top: 20px;
+}
